@@ -1,5 +1,7 @@
-# tutorial_whack_a_mole
-Como automatizar um jogo whack a mole
+# Como automatizar um jogo whack a mole
+
+[![YT](https://i.ytimg.com/vi/vHD5Z88nZj0/maxresdefault.jpg)](https://www.youtube.com/watch?v=vHD5Z88nZj0)
+[https://www.youtube.com/watch?v=vHD5Z88nZj0]()
 
 Neste emocionante tutorial, você aprenderá a criar um bot para o clássico jogo Whack a Mole. Agora, você não precisa mais cansar o braço tentando acertar todas as toupeiras que aparecem na tela. Com este bot, você poderá automatizar a diversão e alcançar pontuações incríveis.
 
